@@ -50,6 +50,7 @@ General purpose icons used everywhere.
 - Iconbuddy - A search engine to browse open source svg icons. ([Website](http://iconbuddy.com))
 - [Iconify Deign](https://github.com/iconify/iconify#readme) - Most popular icon sets in one framework containg over 200,000 open source vector icons. ([Website](https://iconify.design))
 - [React Icons](https://github.com/react-icons/react-icons#reamde) - Popular icon sets created especially for React projects. ([Website](https://react-icons.github.io/react-icons/))
+- [FlyonUI Icons](https://github.com/themeselection/flyonui) - FlyonUI offers customizable icons using Iconify with Tabler support. ([Website](https://flyonui.com/))
 
 ## Logos
 
